@@ -2,7 +2,7 @@
 layout: post
 title: 'Plastic Bags'
 author: Jack
-tags: ['poem']
+tags: ['poems']
 image: img/ocean.jpg
 date: '2019-10-30T00:00:00.000Z'
 draft: false
