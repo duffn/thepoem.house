@@ -1,3 +1,6 @@
 - id: poems
   description: These are my poems.
   image: img/welcome-to-ghost.jpg
+- id: auf Deutsch
+  description: Das sind meine Gedichte.
+  image: img/germany.jpg
