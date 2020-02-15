@@ -37,6 +37,11 @@ const About: React.FC = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>👋 Hi, I write poems.</p>
+              <p>
+                I&apos;m also learning beginning German, so I&apos;ve (Google) translated some of my
+                poems.
+              </p>
+              <p>Genießen!</p>
             </div>
           </PostFullContent>
         </article>
