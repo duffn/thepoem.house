@@ -9,3 +9,7 @@ draft: false
 ---
 
 👋 Hi, I write poems.
+
+I'm also learning beginning German, so I've (Google) translated some of my poems.
+
+Genießen!
